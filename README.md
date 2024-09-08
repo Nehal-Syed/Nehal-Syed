@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **"nehalwrites07@gmail.com"**
 
-- ⚡ Fun fact ** passionate person with eagerness to learn more**
+- ⚡ Fun fact  **passionate person with eagerness to learn more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
