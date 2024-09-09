@@ -3,10 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FFFDC&width=435&lines=Welcome+To+My+Profile..;A+Passionate+Computer+Scientist.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FFFDC&width=435&lines=Welcome+To+My+Profile;A+Passionate+Computer+Scientist" alt="Typing SVG" /></a>
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehal-syed&label=Profile%20views&color=0e75b6&style=flat" alt="nehal-syed" /> </p>
 
 - 🔭 I’m currently working on **".NET Core" and "MERN"**
 
@@ -17,6 +15,9 @@
 - 📫 How to reach me **"nehalwrites07@gmail.com"**
 
 - ⚡ Fun fact **I'm a passionate person with eagerness to learn more**
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehal-syed&label=Profile%20views&color=0e75b6&style=flat" alt="nehal-syed" /> </p>
 
 ---
 
