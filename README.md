@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **".NET Core" and "MERN"**
 
-- 🌱 I’m currently learning **"Next Js" and "DevOps"**
+- 🌱 I’m currently learning **"DevOps"**
 
 - 💬 Ask me about **"Web" and "Backend"**
 
