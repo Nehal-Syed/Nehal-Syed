@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **.NET Core** and **MERN stack**
+- 🔭 I’m currently working on **.NET Core** and **Golang (Go)**
 
 - 🌱 I’m currently learning **DevOps**
 
